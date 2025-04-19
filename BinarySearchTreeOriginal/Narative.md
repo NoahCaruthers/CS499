@@ -9,8 +9,8 @@ I improved the artifact by adding consistent and detailed comments, adding in a 
 
 I believe that I did reach the goals that I had set for this artifact. I believe that I have achieved these course outcomes:
 
-*Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
-*Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
-*Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms)
+-Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+-Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+-Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms)
 
 To complete this artifact, I actually had to switch from the eclipse IDE to visual studio because of issues that I encountered with the MinGW package that was supposed to have a GCC compiler that it did not. This meant that I had to import the project into visual studio. I had a difficult time trying to understand the linker issue because of the  large scope of that error message. While doing these upgrades, I learned a lot about error messages and compiler issues.
