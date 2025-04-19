@@ -1,6 +1,6 @@
 # Overview
 I want to improve on my ability to make more efficient code. I believe that there is waste in this code that could be fixed in order to make it parse quicker than it currently does.
-# Overview
+# Review
 This artifact is  a binary search tree. It is a program that parses through a csv to be able to pull, edit, remove, and add in new information. The biggest part of this program is the switch case method that allows the user to select and review the objects in the binary search tree. The other main part is the ability to load a csv into a custom struct using  vectors. This was created by me around 2 years ago, my second year in college. I would say that I have grown a lot as a developer and person since that time.
 
 This artifact would not build when I had originally submitted it. It had all the necessary methods for the project, but it was missing a few things to get it to compile properly. I chose to redo this artifact because I knew that it could be upgraded in the switch case statement, the commenting was inconsistent and that I wanted to be able to get the program to compile. 
