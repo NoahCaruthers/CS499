@@ -1,2 +1,11 @@
-# CS499
-CS 499 Senior Capstone
+# Program Review
+This course and honestly the entire computer science program here at Southern New Hampshire University have challenged me in ways that I never imagined would happen. The very first course that I took was to make a simple game using Python. This class reinforced the love that I have for computer science. Fast forward a couple of semesters and we are working on the AAC shelters program and I cannot for the life of me get the map to work, only to realize that I was missing punctuation. The most challenging course that I had, however, was the embedded systems class where we got a TI SimpleLink microcontroller and we learned UART, PWM, GPIO and other techniques that embedded systems use to communicate with each other and perform their actions.
+
+In this program we did a full stack development website that required us to be able to take information that would be communicated from owners, stakeholders and other leaders and use it to form a cohesive plan that both computer science experts and others would be able to understand. In this project we had to develop a MongoDB database that was able to be modified by an admin using all the CRUD methods. Since this required an admin, we also had to set up and verify admin accounts to maintain security within the company.
+
+# Course Review
+The Inventory Application best shows off my ability to create and utilize a database to store multiple kinds of datasets. This is my most diverse database because it allows users to create a unique username and password that they can use to login to the application. From here they can use the CRUD methods to maintain an inventory dataset that is displayed in a custom recycler view list. This program also uses java as the main language and has many xml files that I have edited to maintain a clean display for the user.
+
+The CS410 project is a program that allows a financing company to maintain their client list and account types. This program is written in C++ and utilizes header and cpp files. For this program I created a login form and a main page form that allows the user to login and edit the client’s account types. This program also uses a database to store and verify user logins.
+
+The Binary Search Tree application is just that, a binary search tree. This is a data structure that allows for fast queries through a dataset. This tree can add, remove and find a bid from the accompanying csv files. This program was written in C++ and showcases my ability to utilize a database in a simulated web-based environment.
